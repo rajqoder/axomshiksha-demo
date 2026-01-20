@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="max-w-4xl mx-auto p-6 bg-main text-main">
+
+  <!-- Page Header -->
+  <header class="text-center mb-12 max-w-4xl mx-auto px-4">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="text-3xl font-bold text-main mb-2">
+      {{ .Title }}
+    </h1>
+    <p class="text-sm text-muted">
+      Last Updated: {{ .Date.Format "Jan 2, 2006" }}
+    </p>
+  </header>
+
+  <!-- Content Body -->
+  <div class="content-body">
+    {{ .Content }}
+  </div>
+
+</article>
+{{ end }}

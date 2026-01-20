@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto p-6">
+    {{ partial "breadcrumbs.html" . }}
+
+    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {{ range .Data.Terms }}
+        <div class="card p-6 text-center hover:shadow-lg transition-shadow">
+            {{ $categoryData := index $.Site.Data.categories ( .Page.Title | urlize ) }}
+            {{ if $categoryData.image }}
+            <div
+                class="mb-4 aspect-video w-full rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-300">
+                <img src="{{ $categoryData.image }}" alt="{{ .Page.Title }}" class="w-full h-full object-cover">
+            </div>
+            {{ end }}
+            <!-- Title removed as it is now embedded in the image -->
+            <a href="{{ .Page.RelPermalink }}"
+                class="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium px-4 py-2 rounded transition-colors">
+                Explore
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
