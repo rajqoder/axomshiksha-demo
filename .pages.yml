@@ -2,7 +2,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content
+    path: content/**
     fields:
       - name: title
         description: 'Title of the post'
@@ -59,6 +59,9 @@ content:
               label: Doctorate
             - value: research
               label: Research
+      - name: readingTime
+        label: Reading Time
+        type: string
       - name: params
         label: Params
         type: object
