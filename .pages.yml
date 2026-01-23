@@ -2,7 +2,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content/pages
+    path: content
     fields:
       - name: title
         label: Title
