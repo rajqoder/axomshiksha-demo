@@ -5,8 +5,60 @@ content:
     path: content
     fields:
       - name: title
+        description: 'Title of the post'
         label: Title
         type: string
+      - name: description
+        label: Description
+        description: 'SEO Description for the post'
+        type: text
+        options:
+          maxlength: 150
+      - name: keywords
+        label: Keywords
+        type: text
+        list:
+          min: 1
+          max: 5
+          collapsible: false
+      - name: draft
+        label: Draft
+        type: boolean
+      - name: slug
+        label: Slug
+        type: string
+      - name: date
+        label: Date
+        type: date
+      - name: categories
+        label: Category
+        type: select
+        options:
+          values:
+            - value: lower-primary
+              label: Lower Primary
+            - value: upper-primary
+              label: Upper Primary
+            - value: secondary
+              label: Secondary
+            - value: higher-secondary
+              label: HS
+            - value: ug
+              label: UG
+            - value: pg
+              label: PG
+            - value: diploma
+              label: Diploma
+            - value: teaching-course
+              label: Teaching Course
+            - value: competitive-exams
+              label: Competitive Exams
+            - value: skill-development
+              label: Skill Development
+            - value: doctorate
+              label: Doctorate
+            - value: research
+              label: Research
       - name: body
         label: Body
         type: text
