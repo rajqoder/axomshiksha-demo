@@ -59,6 +59,16 @@ content:
               label: Doctorate
             - value: research
               label: Research
+      - name: params
+        label: Params
+        type: object
+        fields:
+          - name: author
+            label: Author
+            type: string
+          - name: chapter_title
+            label: Chapter Title
+            type: string
       - name: body
         label: Body
         type: text
