@@ -72,7 +72,6 @@ content:
         required: true
         label: Params
         type: object
-        
         fields:
           - name: author
             required: true
