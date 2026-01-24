@@ -3,6 +3,9 @@ content:
     label: Pages
     type: collection
     path: content
+    view:
+      fields: [title, description, date]
+      sort: [date, title]
     fields:
       - name: title
         description: 'Title of the post'
