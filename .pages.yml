@@ -2,7 +2,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: 'content/**/*.md*'
+    path: content/class-7
     subfolders: true
     view:
       fields: [title, description, date]
