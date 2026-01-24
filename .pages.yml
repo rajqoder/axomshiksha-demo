@@ -3,17 +3,18 @@ content:
     label: Pages
     type: collection
     path: content
-    subfolders: true
     view:
       fields: [title, description, date]
       sort: [date, title]
     fields:
       - name: title
+        required: true
         description: 'Title of the post'
         label: Title
         type: string
         
       - name: description
+        required: true
         label: Description
         description: 'SEO Description for the post'
         type: text
@@ -22,25 +23,29 @@ content:
       
       - name: keywords
         label: Keywords
-        type: text
+        type: string
         list:
           min: 1
           max: 5
           collapsible: false
       
       - name: draft
+        required: true
         label: Draft
         type: boolean
       
       - name: slug
+        required: true
         label: Slug
         type: string
       
       - name: date
+        required: true
         label: Date
         type: date
       
       - name: categories
+        required: true
         label: Category
         type: select
         options:
@@ -86,11 +91,13 @@ content:
         type: string
       
       - name: params
+        required: true
         label: Params
         type: object
         
         fields:
           - name: author
+            required: true
             label: Author
             type: string
             
@@ -99,9 +106,11 @@ content:
             type: string
             
       - name: thumbnail
+        required: true
         label: Thumbnail Image Url
         type: string
         
       - name: body
+        required: true
         label: Body
         type: rich-text
