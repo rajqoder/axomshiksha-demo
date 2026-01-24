@@ -82,6 +82,14 @@ content:
           - name: chapter_title
             label: Chapter Title
             type: string
+
+          - name: medium
+            label: Medium
+            type: select
+            options:
+              values:
+              - assamese
+              - english
             
       - name: thumbnail
         required: true
