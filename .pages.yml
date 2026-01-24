@@ -3,6 +3,7 @@ content:
     label: Pages
     type: collection
     path: content
+    subfolders: true
     view:
       fields: [title, description, date]
       sort: [date, title]
