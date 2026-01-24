@@ -46,47 +46,25 @@ content:
         type: date
       
       - name: categories
-        required: true
-        label: Category
+        label: Categories
         type: select
+        list: true
+        required: true
         options:
           values:
-            - value: lower-primary
-              label: Lower Primary
-            
-            - value: upper-primary
-              label: Upper Primary
-            
-            - value: secondary
-              label: Secondary
-            
-            - value: higher-secondary
-              label: HS
-            
-            - value: ug
-              label: UG
-            
-            - value: pg
-              label: PG
-            
-            - value: diploma
-              label: Diploma
-            
-            - value: teaching-course
-              label: Teaching Course
-            
-            - value: competitive-exams
-              label: Competitive Exams
-            
-            - value: skill-development
-              label: Skill Development
-            
-            - value: doctorate
-              label: Doctorate
-            
-            - value: research
-              label: Research
-      
+          - lower-primary
+          - upper-primary
+          - secondary
+          - higher-secondary
+          - ug
+          - pg
+          - diploma
+          - teaching-course
+          - competitive-exams
+          - skill-development
+          - doctorate
+          - research
+          
       - name: readingTime
         label: Reading Time
         type: string
