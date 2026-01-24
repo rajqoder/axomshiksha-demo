@@ -2,7 +2,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content/class-6/english
+    path: content
     subfolders: true
     view:
       fields: [title, description, date]
@@ -44,26 +44,6 @@ content:
         required: true
         label: Date
         type: date
-      
-      - name: categories
-        label: Categories
-        type: select
-        list: true
-        required: true
-        options:
-          values:
-          - lower-primary
-          - upper-primary
-          - secondary
-          - higher-secondary
-          - ug
-          - pg
-          - diploma
-          - teaching-course
-          - competitive-exams
-          - skill-development
-          - doctorate
-          - research
           
       - name: readingTime
         label: Reading Time
