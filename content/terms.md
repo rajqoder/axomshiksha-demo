@@ -1,7 +1,7 @@
 ---
-title: "Terms and Conditions"
-description: "Read the terms and conditions for using Axomshiksha. Understand your rights, responsibilities, and our guidelines for accessing and using our educational content."
-layout: "terms"
+title: Terms and Conditions
+description: Read the terms and conditions for using Axomshiksha. Understand your rights, responsibilities, and our guidelines for accessing and using our educational content.
+layout: terms
 date: 2025-12-26
 build:
   list: never

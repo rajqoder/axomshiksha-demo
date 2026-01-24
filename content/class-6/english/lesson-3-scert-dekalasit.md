@@ -1,26 +1,33 @@
-+++
-title = "A Curious Mind - Class 6 English (SCERT)"
-draft = false
-slug = "lesson-3-scert"
-date = "2026-01-04T00:09:36+05:30"
-readingTime = "45 mins"
-description = "The lesson - 'A Curious Mind' explores the life of C.V. Raman and encourages pupils to value curiosity and the spirit of scientific inquiry. includes thorough answers and educational resources."
-keywords = ["scert", "class-6", "english", "solutions", "textbook", "lesson-3"]
-categories = ["upper-primary"]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczOOEFk6wo3EJ1mQJeFuSdDWckAEQlSdMWNijOg1IR6856coUU0iuFNCmJyYubs4i12wWLhD_CXJWl1G8URfZpP98AAKe7VmZM3QT_xk6-K26PyKVLkfHi1JC57mdAE06OobjrhrRriUGHcn8T-MNFHY=w455-h607-s-no-gm?authuser=0"
+﻿---
+title: A Curious Mind - Class 6 English (SCERT)
+draft: false
+slug: lesson-3-scert
+date: 2026-01-04T00:09:36+05:30
+readingTime: 45 mins
+description: The lesson - 'A Curious Mind' explores the life of C.V. Raman and encourages pupils to value curiosity and the spirit of scientific inquiry. includes thorough answers and educational resources.
+keywords:
+   - scert
+   - class-6
+   - english
+   - solutions
+   - textbook
+   - lesson-3
+categories:
+   - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOOEFk6wo3EJ1mQJeFuSdDWckAEQlSdMWNijOg1IR6856coUU0iuFNCmJyYubs4i12wWLhD_CXJWl1G8URfZpP98AAKe7VmZM3QT_xk6-K26PyKVLkfHi1JC57mdAE06OobjrhrRriUGHcn8T-MNFHY=w455-h607-s-no-gm?authuser=0
 
-[params]
-  author = 'Ankur Rajbongshi'
-  chapter_title = "A Curious Mind"
-+++
+params:
+  author: Ankur Rajbongshi
+  chapter_title: A Curious Mind
+---
 
 ## Summary of the Story
 
-The story presents a conversation among three children—Nikita, her younger brother Orgo, and their cousin Meera. Nikita is busy painting a sunset scene when Orgo asks why the sky changes colour at different times. Nikita feels disturbed and scolds Orgo for asking questions.
+The story presents a conversation among three childrenâ€”Nikita, her younger brother Orgo, and their cousin Meera. Nikita is busy painting a sunset scene when Orgo asks why the sky changes colour at different times. Nikita feels disturbed and scolds Orgo for asking questions.
 
-Meera enters the room and listens to Orgo. She explains that asking questions is not wrong and that curiosity leads to great discoveries. To support her point, she tells the children about C. V. Raman, one of India’s greatest scientists. She narrates how a simple question—why the sea appears blue—led Raman to discover the scattering of light, later known as the Raman Effect.
+Meera enters the room and listens to Orgo. She explains that asking questions is not wrong and that curiosity leads to great discoveries. To support her point, she tells the children about C. V. Raman, one of Indiaâ€™s greatest scientists. She narrates how a simple questionâ€”why the sea appears blueâ€”led Raman to discover the scattering of light, later known as the Raman Effect.
 
-Meera further explains Raman’s life, education, achievements, and contributions to science, including his Nobel Prize and Bharat Ratna. Nikita realises her mistake and apologises to Orgo. The story ends with the children learning the importance of curiosity, polite behaviour, and asking questions at the right time.
+Meera further explains Ramanâ€™s life, education, achievements, and contributions to science, including his Nobel Prize and Bharat Ratna. Nikita realises her mistake and apologises to Orgo. The story ends with the children learning the importance of curiosity, polite behaviour, and asking questions at the right time.
 
 | Word | Meaning |
 |------|---------|
@@ -48,7 +55,7 @@ Meera further explains Raman’s life, education, achievements, and contribution
 ### 1. Answer the following questions:
 
    **(a) Who was the scientist that Meera was talking about?**  
-   **Ans:** Meera was talking about [C. V. Raman](https://en.wikipedia.org/wiki/C._V._Raman "Click here to know more"), one of India’s greatest scientists.
+   **Ans:** Meera was talking about [C. V. Raman](https://en.wikipedia.org/wiki/C._V._Raman "Click here to know more"), one of Indiaâ€™s greatest scientists.
 
    **(b) What was the name given to the discovery made by C. V. Raman?**  
    **Ans:** The discovery made by C. V. Raman was named the **Raman Effect**.
@@ -62,7 +69,7 @@ Meera further explains Raman’s life, education, achievements, and contribution
    **(e) What question did Orgo ask Nikita? Why was Nikita irritated by the question?**  
    **Ans:** Orgo asked Nikita, "Why does the sky change colour at different times?" Nikita was irritated by the question because she was busy painting a sunset scene and did not want to be disturbed.
 
-   **(f) "We’ll surely keep this in mind next time."  
+   **(f) "Weâ€™ll surely keep this in mind next time."  
    What would Orgo and Nikita keep in mind?**  
    **Ans:** They would keep in mind that questions should be asked politely and at the right time, and that one should not dismiss questions rudely.
 
@@ -86,7 +93,7 @@ Meera further explains Raman’s life, education, achievements, and contribution
    (f) Meera was happy about Orgo asking questions.  
    **Ans:** True
 
-### 3. Put a tick (✓) on the correct option :
+### 3. Put a tick (âœ“) on the correct option :
 
    (a) Raman was awarded the Bharat Ratna in 
 
@@ -116,8 +123,8 @@ Meera further explains Raman’s life, education, achievements, and contribution
    **Ans:** (i) Tiruvanaikkaval
 
    (d) National Science Day is observed to  
-   (i) honour Raman’s contribution  
-   (ii) celebrate Raman’s birthday  
+   (i) honour Ramanâ€™s contribution  
+   (ii) celebrate Ramanâ€™s birthday  
    (iii) commemorate the discovery of Raman Effect  
    (iv) pay tribute to Raman on his death anniversary  
 
@@ -137,7 +144,7 @@ Meera further explains Raman’s life, education, achievements, and contribution
 
    **Ans:**
 
-   1. **1888** – Birth of C. V. Raman  
+   1. **1888** â€“ Birth of C. V. Raman  
    2. **1930** - Awarded the Nobel Prize in Physics  
    3. **1954** - Awarded the Bharat Ratna  
    4. **1970** - Passed away on November 21
@@ -173,7 +180,7 @@ Write the meaning of each word (by looking up in a dictionary) in the right colu
 1. Orgo is very **curious** about nature.  
 2. The Raman Effect is an important **phenomenon**.  
 3. **Scattering** of light makes the sky look blue.  
-4. C. V. Raman’s discovery was a great **breakthrough**.  
+4. C. V. Ramanâ€™s discovery was a great **breakthrough**.  
 5. C. V. Raman was a **renowned** Indian scientist.
 
 ### 7. Find and write down the synonyms of the following words from the text:
@@ -272,14 +279,14 @@ Write the meaning of each word (by looking up in a dictionary) in the right colu
 (v) Orgo and Nikita *were* happy to learn about C. V. Raman.
 
 **Notice the underlined words in the above sentence.**  
-> The words *is*, *am*, *are*, *was*, and *were* are different forms of the verb **“be”**.
-> - *is*, *am*, *are* → present tense  
-> - *was*, *were* → past tense  
+> The words *is*, *am*, *are*, *was*, and *were* are different forms of the verb **â€œbeâ€**.
+> - *is*, *am*, *are* â†’ present tense  
+> - *was*, *were* â†’ past tense  
 
-#### **(b) Now, fill in the blanks with the appropriate forms of the verb **“be”**:**
+#### **(b) Now, fill in the blanks with the appropriate forms of the verb **â€œbeâ€**:**
 
 (i) Mita and Raman ______ my close friends.  
-(ii) Mita _______ Raman’s neighbour.  
+(ii) Mita _______ Ramanâ€™s neighbour.  
 (iii) I _______ in regular touch with them.  
 (iv) They _______ here with me yesterday.  
 (v) We _______ very happy to visit a park together yesterday.  
@@ -287,7 +294,7 @@ Write the meaning of each word (by looking up in a dictionary) in the right colu
 **Ans:**
 
 (i) Mita and Raman **are** my close friends.  
-(ii) Mita **is** Raman’s neighbour.  
+(ii) Mita **is** Ramanâ€™s neighbour.  
 (iii) I **am** in regular touch with them.  
 (iv) They **were** here with me yesterday.  
 (v) We **were** very happy to visit a park together yesterday.  
@@ -310,49 +317,49 @@ Write the meaning of each word (by looking up in a dictionary) in the right colu
 
 ### 13. Choose the correct option and fill in the blanks:
 
-(i) Nikita ________ (has come / is coming) to Meera’s house.  
+(i) Nikita ________ (has come / is coming) to Meeraâ€™s house.  
 (ii) Meera and Nikita ________ (have watched / are watching) TV now.  
 (iii) They ________ (have eaten / are eating) snacks while watching TV.  
 
 **Ans:**
 
-(i) Nikita **has come** to Meera’s house.  
+(i) Nikita **has come** to Meeraâ€™s house.  
 (ii) Meera and Nikita **are watching** T.V. now.  
 (iii) They **are eating** snacks while watching T.V.
 
-### 14. (a) Let’s read the words in the box aloud and notice the beginning sound of each word:
+### 14. (a) Letâ€™s read the words in the box aloud and notice the beginning sound of each word:
 
 {{<content-box marginY="1rem" content="scene &nbsp;&nbsp; scolded &nbsp;&nbsp; science &nbsp;&nbsp; scattering">}}
 
-> All the four words begin with the consonant blend **“sc”**.  
-> When we say the words *scene* and *science*, they begin with the sound **“s”** as in *sun*.  
-> When we say the words *scolded* and *scattering*, **“sc”** is pronounced like **“sk”** as in *sky*.
+> All the four words begin with the consonant blend **â€œscâ€**.  
+> When we say the words *scene* and *science*, they begin with the sound **â€œsâ€** as in *sun*.  
+> When we say the words *scolded* and *scattering*, **â€œscâ€** is pronounced like **â€œskâ€** as in *sky*.
 
-#### **(b) Now, read aloud the following words beginning with the consonant blend **“sc”**. Write **“sk”** if *sc* is pronounced like *sk* as in *sky*. Write **“s”** if *sc* is pronounced like *s* as in *sun*. Two are done for you.**
+#### **(b) Now, read aloud the following words beginning with the consonant blend **â€œscâ€**. Write **â€œskâ€** if *sc* is pronounced like *sk* as in *sky*. Write **â€œsâ€** if *sc* is pronounced like *s* as in *sun*. Two are done for you.**
 
-(i) scale — **sk**  
-(ii) scent — **s**  
-(iii) scene —   
-(iv) scare —   
-(v) scissors —   
-(vi) score —   
-(vii) scooter —   
-(viii) scan — 
+(i) scale â€” **sk**  
+(ii) scent â€” **s**  
+(iii) scene â€”   
+(iv) scare â€”   
+(v) scissors â€”   
+(vi) score â€”   
+(vii) scooter â€”   
+(viii) scan â€” 
 
 **Ans:**
 
-(i) scale — **sk**  
-(ii) scent — **s**  
-(iii) scene — **s**  
-(iv) scare — **sk**  
-(v) scissors — **s**  
-(vi) score — **sk**  
-(vii) scooter — **sk**  
-(viii) scan — **sk**
+(i) scale â€” **sk**  
+(ii) scent â€” **s**  
+(iii) scene â€” **s**  
+(iv) scare â€” **sk**  
+(v) scissors â€” **s**  
+(vi) score â€” **sk**  
+(vii) scooter â€” **sk**  
+(viii) scan â€” **sk**
 
 ### 15. Read what Meera told Orgo and Nikita:
 
-“However, Orgo, please remember, it's also important to consider if someone is busy before asking any questions to the person. And Nikita, make sure that you don’t dismiss the questions straightaway. You can politely ask the person to wait.”
+â€œHowever, Orgo, please remember, it's also important to consider if someone is busy before asking any questions to the person. And Nikita, make sure that you donâ€™t dismiss the questions straightaway. You can politely ask the person to wait.â€
 
 Meera told Orgo and Nikita about some ways to behave well. Work with your friend and make a list of five examples of good behaviour. Present the list in a piece of paper. Display the list in the classroom.
 

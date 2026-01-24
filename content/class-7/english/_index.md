@@ -1,5 +1,5 @@
-+++
-title = 'English'
-date = 2026-01-07
-draft = false
-+++
+﻿---
+title: English
+date: 2026-01-07
+draft: false
+---

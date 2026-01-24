@@ -1,18 +1,25 @@
-+++
-title = "The Golden Touch - Class 6 English (SCERT)"
-draft = false
-slug = "lesson-2-scert"
-date = "2026-01-01T23:58:31+05:30"
-readingTime = "35 mins"
-description = "The warning story of King Midas, who discovers that human connection is far more valuable than golden riches, is told in the SCERT Class 6 English textbook lesson 'The Golden Touch'. You can find comprehensive replies, clarifications, and answers to questions here."
-keywords = ["scert", "class-6", "english", "solutions", "textbook", "lesson-2"]
-categories = ["upper-primary"]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczP6dYU1xE5EVgn_UsEWkQGIAIVv96NuSrWQe5X23jm95yQwQCvQi6hj9TmAhBdNmBdPiYlsDRbizVPLDd8RAdDLfnFCaOR0fJywlinOAMBxa51xjATjlV2gzpme4IF2yftiqM5BxpIxXx6OLUg7F7eG=w455-h607-s-no-gm?authuser=0"
+﻿---
+title: The Golden Touch - Class 6 English (SCERT)
+draft: false
+slug: lesson-2-scert
+date: 2026-01-01T23:58:31+05:30
+readingTime: 35 mins
+description: The warning story of King Midas, who discovers that human connection is far more valuable than golden riches, is told in the SCERT Class 6 English textbook lesson 'The Golden Touch'. You can find comprehensive replies, clarifications, and answers to questions here.
+keywords:
+  - scert
+  - class-6
+  - english
+  - solutions
+  - textbook
+  - lesson-2
+categories:
+  - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczP6dYU1xE5EVgn_UsEWkQGIAIVv96NuSrWQe5X23jm95yQwQCvQi6hj9TmAhBdNmBdPiYlsDRbizVPLDd8RAdDLfnFCaOR0fJywlinOAMBxa51xjATjlV2gzpme4IF2yftiqM5BxpIxXx6OLUg7F7eG=w455-h607-s-no-gm?authuser=0
 
-[params]
-  author = 'Ankur Rajbongshi'
-  chapter_title = "The Golden Touch"
-+++
+params:
+  author: Ankur Rajbongshi
+  chapter_title: The Golden Touch
+---
 
 ## Summary of the Story
 
@@ -54,22 +61,22 @@ Let's see how much we have understood:
 (e) What lesson di King Midas learn at the end?  
 **Ans:** King Midas learnt that greed brings sorrow and that love and happiness are more valuable than gold.
 
-### 2. Read the following statements. Put a tick (✔) on the correct statement, and cross (✗) on the incorrect ones :
+### 2. Read the following statements. Put a tick (âœ”) on the correct statement, and cross (âœ—) on the incorrect ones :
 
 (a) Midas was very happy with his wealth.  
-**Ans:** ✗
+**Ans:** âœ—
 
 (b) The king tested his new power by touching a stone.  
-**Ans:** ✓
+**Ans:** âœ“
 
 (c) The divine spirit did not warn Midas.  
-**Ans:** ✗
+**Ans:** âœ—
 
 (d) When Midas touched a stone, it turned into gold.  
-**Ans:** ✓
+**Ans:** âœ“
 
-(e) The divine spirit didn’t solve Midas’ problem.  
-**Ans:** ✗
+(e) The divine spirit didnâ€™t solve Midasâ€™ problem.  
+**Ans:** âœ—
 
 ### 3. Read the sentences given below, and replace the underlined part with a word from the box.
 
@@ -144,7 +151,7 @@ Let's see how much we have understood:
 
 **Ans:** (ii) greed makes a man blind and foolish
 
-### 5. Arrange the jumbled sentences in the proper order to get the summary of the story “The Golden Touch”. Rewrite the sentences in the correct order. Begin some of the sentences with Then, After that, Next and Finally to show how the events happen.
+### 5. Arrange the jumbled sentences in the proper order to get the summary of the story â€œThe Golden Touchâ€. Rewrite the sentences in the correct order. Begin some of the sentences with Then, After that, Next and Finally to show how the events happen.
 
 i. Midas learned to be happy with what he had.  
 ii. The divine spirit told Midas to wash his hands in the river.  
@@ -154,16 +161,16 @@ v. His daughter came back to life.
 vi. A divine spirit met King Midas one day.  
 vii. When he hugged him, she instantly turned into a statue of gold.  
 viii. Midas became very sad.  
-ix. The divine spirit said, “I will grant you one wish.”  
+ix. The divine spirit said, â€œI will grant you one wish.â€  
 x. Excited, he ran to tell his daughter the news.  
-xi. Midas said, “I wish whatever I touch turns into gold.”
+xi. Midas said, â€œI wish whatever I touch turns into gold.â€
 
 **Ans:**
 
 iv. Midas always wanted more gold.  
 vi. A divine spirit met King Midas one day.  
-ix. The divine spirit said, “I will grant you one wish.”  
-xi. Midas said, “I wish whatever I touch turns into gold.”  
+ix. The divine spirit said, â€œI will grant you one wish.â€  
+xi. Midas said, â€œI wish whatever I touch turns into gold.â€  
 x. Excited, he ran to tell his daughter the news.  
 vii. When he hugged him, she instantly turned into a statue of gold.  
 viii. Midas became very sad.  
@@ -172,7 +179,7 @@ iii. Midas quickly went to the river and washed his hands.
 v. His daughter came back to life.  
 i. Midas learned to be happy with what he had.
 
-### 6. (a) Some letters may have more than one sound. Let’s take the example of the letter ‘a’. Read these words aloud and notice the sounds of letter ‘a’ in them:
+### 6. (a) Some letters may have more than one sound. Letâ€™s take the example of the letter â€˜aâ€™. Read these words aloud and notice the sounds of letter â€˜aâ€™ in them:
 
 |      |       |      |
 |:-----| :---- |:---- |
@@ -207,7 +214,7 @@ i. Midas learned to be happy with what he had.
 
 > The sentences given above refer to actions that happened before.
 
-All the sentences talk about actions that happened before. When we talk about events or actions that took place at a definite time in the past, we use verbs in the Simple Past Tense. In the simple past tense of a verb, we say what we did yesterday, or last week, or even a long time ago. We use the second form of the verb by adding ‘-d’ or ‘-ed’ to the verb. Let’s see the first form / second form of the underlined verbs:
+All the sentences talk about actions that happened before. When we talk about events or actions that took place at a definite time in the past, we use verbs in the Simple Past Tense. In the simple past tense of a verb, we say what we did yesterday, or last week, or even a long time ago. We use the second form of the verb by adding â€˜-dâ€™ or â€˜-edâ€™ to the verb. Letâ€™s see the first form / second form of the underlined verbs:
 
 | Base form / First form | Past form / Second form |
 |-----------------------|-------------------------|
@@ -287,12 +294,12 @@ King Midas *wanted* to be the richest king. So, he *wished* for the power to tur
 
 > **The word *'touch'* is used in two different way in the sentences.** In the first sentence, *the word **touch** is used as a noun*, and it means the king's magical power. In the second sentence, *the word *touch* is used as a verb*, and it means what the king did.
 
-**(b) Read the following sentences, and say how the meanings of ‘drink’ are different in both the sentences:**
+**(b) Read the following sentences, and say how the meanings of â€˜drinkâ€™ are different in both the sentences:**
 
 (i) The king could not even eat or *drink* because everything he touched became gold immediately.  
 (ii) The food and *drink* turned to gold as soon as he touched them.
 
-**Make sentences using the word ‘drink’ to show two different meanings:**
+**Make sentences using the word â€˜drinkâ€™ to show two different meanings:**
 
 {{<flex direction="col" marginY="1rem">}}
 {{<underscored-space no="2" width="100%">}}
@@ -354,9 +361,9 @@ King Midas *wanted* to be the richest king. So, he *wished* for the power to tur
 
 **Find out a few more words from the text having two or more syllables and complete the list above.**
 
-(b) Notice that the word **'magical'** is pronounced with more force on the **first syllable**, i.e. we say the first syllable more strongly than the others– **ma**-gi-cal. Again, the word '**fulfil**' is pronounced with more force on the second syllable, i.e. we say the **second syllable** more strongly than the others– ful-**fil**. **Listen how your teacher pronounces the word celebration. Practise saying the words with correct stress.**
+(b) Notice that the word **'magical'** is pronounced with more force on the **first syllable**, i.e. we say the first syllable more strongly than the othersâ€“ **ma**-gi-cal. Again, the word '**fulfil**' is pronounced with more force on the second syllable, i.e. we say the **second syllable** more strongly than the othersâ€“ ful-**fil**. **Listen how your teacher pronounces the word celebration. Practise saying the words with correct stress.**
 
-### 11. Listen to the story ‘The Tale of the Talking Cave’ and answer the questions orally:
+### 11. Listen to the story â€˜The Tale of the Talking Caveâ€™ and answer the questions orally:
 
 i. What trick did the fairies play?  
 ii. What lesson did Dave learn?  
@@ -409,7 +416,7 @@ iv. The story conveys the message that our words and actions reflect back on us,
 
 **Ans:**
 
-> “Clever cats can catch curious mice.”
+> â€œClever cats can catch curious mice.â€
 
 **Riddle Time :**
 

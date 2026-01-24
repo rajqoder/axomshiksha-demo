@@ -1,36 +1,42 @@
-+++
-title = "Uruka Adventure - Class 7 English (SCERT)"
-draft = false
-date = "2026-01-22T07:30:51+05:30"
-readingTime = "56 mins"
-description = "The lesson 'Uruka Adventure' tells the story of Mahendra and his friends from the village of Assam. They plan an adventure on uruka night, following an old custom before Magh Bihu. At night, they secretly go to Shantiram's vegetable garden to pick vegetables for a feast. In the darkness, strange sounds and a black heap frighten them. Later, they discover that the fear was caused by an owl and Shantiram wrapped in a black blanket. Realising their mistake, they escape safely and feel thankful to be alive, deciding not to think of such adventures again."
-keywords = ["uruka-adventure","class-7","english","scert","textbook"]
-categories = ["upper-primary"]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczOaqbutWqwBPx6OfUYxwcpXTlLofkrUAq-anqjj82Y0UKc2_i-yTySmDKJa7q0kTD8bfyj4ArXDPbeYpFvCtGjt5qhMsaIZ56ibjv-G-XThHtDM4gmFcBaJ-VxvSjwhMNCM2xsaFZVngft3wtm2qzkG=w483-h289-s-no-gm?authuser=0"
-slug = "lesson-2-scert"
+﻿---
+title: Uruka Adventure - Class 7 English (SCERT)
+draft: false
+date: 2026-01-22T07:30:51+05:30
+readingTime: 56 mins
+description: The lesson 'Uruka Adventure' tells the story of Mahendra and his friends from the village of Assam. They plan an adventure on uruka night, following an old custom before Magh Bihu. At night, they secretly go to Shantiram's vegetable garden to pick vegetables for a feast. In the darkness, strange sounds and a black heap frighten them. Later, they discover that the fear was caused by an owl and Shantiram wrapped in a black blanket. Realising their mistake, they escape safely and feel thankful to be alive, deciding not to think of such adventures again.
+keywords:
+  - uruka-adventure
+  - class-7
+  - english
+  - scert
+  - textbook
+categories:
+  - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczOaqbutWqwBPx6OfUYxwcpXTlLofkrUAq-anqjj82Y0UKc2_i-yTySmDKJa7q0kTD8bfyj4ArXDPbeYpFvCtGjt5qhMsaIZ56ibjv-G-XThHtDM4gmFcBaJ-VxvSjwhMNCM2xsaFZVngft3wtm2qzkG=w483-h289-s-no-gm?authuser=0
+slug: lesson-2-scert
 
-[params]
-  author = "dekalasit"
-  chapter_title = "Uruka Adventure"
-+++
+params:
+  author: Ankur Rajbongshi
+  chapter_title: Uruka Adventure
+---
 
 ## ACTIVITIES
 
-### 1. Let’s see how much you have understood the story. Answer the questions:
+### 1. Letâ€™s see how much you have understood the story. Answer the questions:
 
 **(a) Who was the leader of the boys in their adventure on uruka night?**  
 **Ans:** Mahendra was the leader of the boys in their adventure on uruka night.
 
-**(b) What were the names of Mahen’s friends?**  
-**Ans:** The names of Mahen’s friends were Sanju, Nantu, Rinku and Rumon.
+**(b) What were the names of Mahenâ€™s friends?**  
+**Ans:** The names of Mahenâ€™s friends were Sanju, Nantu, Rinku and Rumon.
 
 **(c) What did Mahen and his friends propose to do on uruka night?**  
-**Ans:** Mahen and his friends proposed to go to Shantiram’s vegetable garden at night, pick vegetables and have a feast the next day.
+**Ans:** Mahen and his friends proposed to go to Shantiramâ€™s vegetable garden at night, pick vegetables and have a feast the next day.
 
 **(d) What was the age old custom that Mahen was referring to?**  
 **Ans:** The age old custom was celebrating uruka night with a community feast before Magh Bihu.
 
-**(e) What was Mahen’s reaction to their proposal?**  
+**(e) What was Mahenâ€™s reaction to their proposal?**  
 **Ans:** Mahen agreed to the proposal happily and was ready to lead the adventure.
 
 **(f) What did the boys do after the feast?**  
@@ -63,12 +69,12 @@ slug = "lesson-2-scert"
 (b) Shantiram ran towards the boys when they were about to pick the vegetables.  
 (c) Sanju, Nantu, Rinku, Rumon and Mahen planned an adventure on uruka night.  
 (d) The boys ran frantically out of the garden, scared that the ghost was after them.  
-(e) Just past midnight, the five boys headed towards Shantiram’s vegetable garden.
+(e) Just past midnight, the five boys headed towards Shantiramâ€™s vegetable garden.
 
 **Ans:**
 
 1. (c) Sanju, Nantu, Rinku, Rumon and Mahen planned an adventure on uruka night.  
-2. (e) Just past midnight, the five boys headed towards Shantiram’s vegetable garden.  
+2. (e) Just past midnight, the five boys headed towards Shantiramâ€™s vegetable garden.  
 3. (a) Mahen saw something like a black heap of garbage in the middle of the garden.  
 4. (b) Shantiram ran towards the boys when they were about to pick the vegetables.  
 5. (d) The boys ran frantically out of the garden, scared that the ghost was after them.
@@ -106,10 +112,10 @@ slug = "lesson-2-scert"
 
 |  |  |
 |--|---|
-|“Oh yes! It is our age old custom.” | {{<underscored-space>}} |
-|“We will spend the night in our bhelaghar.” | {{<underscored-space>}} |
-|“What will we carry the vegetables in?” | {{<underscored-space>}} |
-|“Never mind. We’ll carry as much as possible in each hand.” | {{<underscored-space>}} |
+|â€œOh yes! It is our age old custom.â€ | {{<underscored-space>}} |
+|â€œWe will spend the night in our bhelaghar.â€ | {{<underscored-space>}} |
+|â€œWhat will we carry the vegetables in?â€ | {{<underscored-space>}} |
+|â€œNever mind. Weâ€™ll carry as much as possible in each hand.â€ | {{<underscored-space>}} |
 
 **Ans:**
 
@@ -118,36 +124,36 @@ slug = "lesson-2-scert"
 | "Oh yes! It is our age old custom." | Mahen (Para-2) |
 | "We will spend the night in our bhelaghar." | Mahen (Para-3) |
 | "What will we carry the vegetables in?" | Sajan (Para-4) |
-| "Never mind. We’ll carry as much as possible in each hand." | Mahen (Para-4) |
+| "Never mind. Weâ€™ll carry as much as possible in each hand." | Mahen (Para-4) |
 
 ### 6. Let's learn some grammar:
 
 #### (a) Read the following two sentences.
 
 (i) We will spend the night in our bhelaghar.  
-(ii) We’ll carry as much vegetables as possible.
+(ii) Weâ€™ll carry as much vegetables as possible.
 
 **Note the following**  
-> - We can write *we will* as *we’ll*.  
-> - *We’ll* is the shorter form of *we will*.
+> - We can write *we will* as *weâ€™ll*.  
+> - *Weâ€™ll* is the shorter form of *we will*.
 
 
 **Now rewrite the following sentences using the short form of *will*.**
 
-1. Mahen said, “We will make a bhelaghar.”  
-   **Ans:** Mahen said, “We’ll make a bhelaghar.”
+1. Mahen said, â€œWe will make a bhelaghar.â€  
+   **Ans:** Mahen said, â€œWeâ€™ll make a bhelaghar.â€
 
 2. They will spend the night in the bhelaghar.  
-   **Ans:** They’ll spend the night in the bhelaghar.
+   **Ans:** Theyâ€™ll spend the night in the bhelaghar.
 
-3. Sajan thought, “When everyone is asleep, I will pick vegetables.”  
-   **Ans:** Sajan thought, “When everyone is asleep, I’ll pick vegetables.”
+3. Sajan thought, â€œWhen everyone is asleep, I will pick vegetables.â€  
+   **Ans:** Sajan thought, â€œWhen everyone is asleep, Iâ€™ll pick vegetables.â€
 
-4. Mahen said, “We will help each other to cook the food.”  
-   **Ans:** Mahen said, “We’ll help each other to cook the food.”
+4. Mahen said, â€œWe will help each other to cook the food.â€  
+   **Ans:** Mahen said, â€œWeâ€™ll help each other to cook the food.â€
 
 5. They will have an uruka adventure.  
-   **Ans:** They’ll have an uruka adventure.
+   **Ans:** Theyâ€™ll have an uruka adventure.
 
 #### (b) Now read the following sentences:
 
@@ -189,8 +195,8 @@ slug = "lesson-2-scert"
 (iv) They will plan to hold the feast in Mahen's house.  
 (v) We will go to pick vegetables from Shantiram's garden.
 
-### 7. Read the story and write down the words ending with –ly. One is done for you.  
-(a) excitedly  (b) {{<underscored-space>}}  (c) {{<underscored-space>}}  (d) {{<underscored-space>}}
+### 7. Read the story and write down the words ending with â€“ly. One is done for you.  
+(a) excitedlyâ€ƒâ€ƒ(b) {{<underscored-space>}}â€ƒâ€ƒ(c) {{<underscored-space>}}â€ƒâ€ƒ(d) {{<underscored-space>}}
 
 **Now look up the dictionary and write the meanings of these words. Use the words in sentences of your own.**
 
@@ -206,21 +212,21 @@ slug = "lesson-2-scert"
 
 ### 8. (a) Read the paragraphs given below carefully. They describe what the friends did on uruka night. All the words highlighted in italics bold refer to actions that took place in the past.
 
-Mahen and his friends ***decided*** to hold a feast together. They ***planned*** to hold the feast at Mahen’s compound. Mahen and Sanju ***said*** that they would do the shopping for the feast at the nearby market. Mahen’s friends Nantu and Rinku ***suggested*** that they should cook for the feast themselves.
+Mahen and his friends ***decided*** to hold a feast together. They ***planned*** to hold the feast at Mahenâ€™s compound. Mahen and Sanju ***said*** that they would do the shopping for the feast at the nearby market. Mahenâ€™s friends Nantu and Rinku ***suggested*** that they should cook for the feast themselves.
 
-Rumon ***offered*** to cook the vegetables and the fish. Sanju and Nantu ***said*** that they would cook the rice, the lentils and the chicken. The five friends ***proposed*** that they would spend the entire night at Mahen’s compound.
+Rumon ***offered*** to cook the vegetables and the fish. Sanju and Nantu ***said*** that they would cook the rice, the lentils and the chicken. The five friends ***proposed*** that they would spend the entire night at Mahenâ€™s compound.
 
-As planned earlier, the five boys ***built*** a big shed using straw and bamboo. Rumon’s uncle ***helped*** them with the task. The boys joyfully ***cooked*** for the feast with a little supervision and help from Mahen’s mother. When the feast ***was*** over, Mahen ***commanded*** his friends to follow him on their nocturnal adventure. They ***made*** straight for Shantiram’s house at the end of the lane. The five friends ***tiptoed*** into his garden after crossing the nongola. Suddenly, they ***saw*** a black heap of garbage in the middle of the rows of vegetables. They ***thought*** it was inert and harmless. But when the boys ***stretched*** their hands to pick the vegetables, the heap suddenly ***moved***! Terrified, they ***fled*** from the scene. What a narrow escape they ***had***!
+As planned earlier, the five boys ***built*** a big shed using straw and bamboo. Rumonâ€™s uncle ***helped*** them with the task. The boys joyfully ***cooked*** for the feast with a little supervision and help from Mahenâ€™s mother. When the feast ***was*** over, Mahen ***commanded*** his friends to follow him on their nocturnal adventure. They ***made*** straight for Shantiramâ€™s house at the end of the lane. The five friends ***tiptoed*** into his garden after crossing the nongola. Suddenly, they ***saw*** a black heap of garbage in the middle of the rows of vegetables. They ***thought*** it was inert and harmless. But when the boys ***stretched*** their hands to pick the vegetables, the heap suddenly ***moved***! Terrified, they ***fled*** from the scene. What a narrow escape they ***had***!
 
 **Now sit in groups. Then, using verbs in similar forms, tell the group how you celebrated one of your festivals this year. Did you have an adventure like Mahen or was it a rather ordinary experience for you?**
 
 **Remember to include the following points to describe your experience:**
 
-• How you planned for the festival  
-• With whom you celebrated it  
-• What was prepared for the festival  
-• What you ate and who did the cooking  
-• What adventures you had with your friends  
+â€¢ How you planned for the festival  
+â€¢ With whom you celebrated it  
+â€¢ What was prepared for the festival  
+â€¢ What you ate and who did the cooking  
+â€¢ What adventures you had with your friends  
 
 **Ans:**
 
@@ -232,31 +238,31 @@ Makar Sankranti is a festival celebrated all over India in the month of January.
 
 ### 9. Read the verbs in column A and write their past forms in column B, as shown in the example:
 
-| A  |  B |
+| Aâ€ƒâ€ƒ|â€ƒâ€ƒB |
 | --- | --- |
-| buy |  bought  |
-| catch | {{<underscored-space>}} |  
-| teach | {{<underscored-space>}} |  
-| bring | {{<underscored-space>}} |  
-| fight | {{<underscored-space>}} |
+| buyâ€ƒ|â€ƒâ€ƒbought  |
+| catchâ€ƒ| {{<underscored-space>}} |  
+| teachâ€ƒ| {{<underscored-space>}} |  
+| bringâ€ƒ| {{<underscored-space>}} |  
+| fightâ€ƒ| {{<underscored-space>}} |
 
 **Ans:**
 
-| A  |  B |
+| Aâ€ƒâ€ƒ|â€ƒâ€ƒB |
 | --- | --- |
-| buy | bought  |
-| catch | caught  |
-| teach | taught  |
-| bring | brought |
-| fight | fought |
+| buyâ€ƒ| bought  |
+| catchâ€ƒ| caught  |
+| teachâ€ƒ| taught  |
+| bringâ€ƒ| brought |
+| fightâ€ƒ| fought |
 
 ### 10. What did you notice about the words in column B above? 
 
-> Notice that the ‘ght’ in all the past forms is pronounced as the 't' is pronounced in ‘co*t*’.
+> Notice that the â€˜ghtâ€™ in all the past forms is pronounced as the 't' is pronounced in â€˜co*t*â€™.
 
-{{<content-box content="bought  caught  taught  brought  fought" marginY="1rem">}}  
+{{<content-box content="boughtâ€ƒâ€ƒcaughtâ€ƒâ€ƒtaughtâ€ƒâ€ƒbroughtâ€ƒâ€ƒfought" marginY="1rem">}}  
 
-**Can you think of more words ending with ‘ght’? Work with a friend. Practise saying aloud the words you have listed.**
+**Can you think of more words ending with â€˜ghtâ€™? Work with a friend. Practise saying aloud the words you have listed.**
 
 ### 11. Look at the pictures in box A and read the dialogue in the bubble. Now choose the correct response from those in box B to fill up the bubble C.
 
@@ -264,26 +270,26 @@ Makar Sankranti is a festival celebrated all over India in the month of January.
 
 **Now, practise the dialogue with your partner.**
 
-**Ans:** (ii) Don’t worry. I am OK. You carry on. I’ll join you in a while.
+**Ans:** (ii) Donâ€™t worry. I am OK. You carry on. Iâ€™ll join you in a while.
 
 ### 12. Read the following words. Some of them are related to adventure. Find out the meanings of those words and make sentences with them:
 
-{{<content-box marginY="1rem" content="plan  thrill  excitement  enjoyment  feast  cooperation  custom  experiment  night  voice">}}
+{{<content-box marginY="1rem" content="planâ€ƒâ€ƒthrillâ€ƒâ€ƒexcitementâ€ƒâ€ƒenjoymentâ€ƒâ€ƒfeastâ€ƒâ€ƒcooperationâ€ƒâ€ƒcustomâ€ƒâ€ƒexperimentâ€ƒâ€ƒnightâ€ƒâ€ƒvoice">}}
 
 **Ans:**
 
 | Word | Meaning | Sentence |
 | ---- | ------- | -------- |
-| plan  | a set of actions decided in advance | I have a plan to visit India next year. |
-| thrill | A feeling of excitement | The movie gave me a thrill. |
-| excitement | A feeling of happiness and eagerness | The children were excited to go to the zoo. |
-| enjoyment | Pleasure and happiness | The children had a great enjoyment playing games. |
-| feast  | a large special meal | The family prepared a grand feast. |
-| cooperation | Working together to help each other | The work was completed with cooperation. |
-| custom  | A traditional practice | Flying kites is a custom during the festival. |
-| experiment | a test to learn something new. | We did a small experiment in science class. |
-| night  | The time when it is dark | The boys stayed awake the whole night. |
-| voice  | Sound produced when speaking | I heard a strange voice in the dark. |
+| planâ€ƒâ€ƒ| a set of actions decided in advance | I have a plan to visit India next year. |
+| thrillâ€ƒ| A feeling of excitement | The movie gave me a thrill. |
+| excitementâ€ƒ| A feeling of happiness and eagerness | The children were excited to go to the zoo. |
+| enjoymentâ€ƒ| Pleasure and happiness | The children had a great enjoyment playing games. |
+| feastâ€ƒâ€ƒ| a large special meal | The family prepared a grand feast. |
+| cooperationâ€ƒ| Working together to help each other | The work was completed with cooperation. |
+| customâ€ƒâ€ƒ| A traditional practice | Flying kites is a custom during the festival. |
+| experimentâ€ƒ| a test to learn something new. | We did a small experiment in science class. |
+| nightâ€ƒâ€ƒ| The time when it is dark | The boys stayed awake the whole night. |
+| voiceâ€ƒâ€ƒ| Sound produced when speaking | I heard a strange voice in the dark. |
 
 ### 13. Let's do:
 

@@ -1,18 +1,25 @@
-+++
-title = "My Land - Class 6 English (SCERT)"
-date = "2026-01-04T22:23:05+05:30"
-draft = false
-slug = "lesson-4-scert"
-description = "The lesson - 'My Land' celebrates the poet's intense love and passion for their home country, inspiring a strong sense of patriotism. Examine the complete study guide and its solutions."
-readingTime = "48 mins"
-keywords = ["class-6", "scert", "english", "solutions", "textbook", "lesson-4"]
-categories = ["upper-primary"]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczNHBgOtrGx5hjjg1K8fVR2ctM-m4H0ptD8lkU3IfIlFgnCSK9M9PB2sZLZv5y2GnPrvoGxnAIkoaa1ooZcNyOmjhqkOMaklBToW9sO4plcT7Z2-lPPgUDPc-MtD-dyS1sRYdIGo261yOGwm58v31PE=w340-h428-s-no-gm?authuser=0"
+﻿---
+title: My Land - Class 6 English (SCERT)
+date: 2026-01-04T22:23:05+05:30
+draft: false
+slug: lesson-4-scert
+description: The lesson - 'My Land' celebrates the poet's intense love and passion for their home country, inspiring a strong sense of patriotism. Examine the complete study guide and its solutions.
+readingTime: 48 mins
+keywords:
+   - class-6
+   - scert
+   - english
+   - solutions
+   - textbook
+   - lesson-4
+categories:
+   - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczNHBgOtrGx5hjjg1K8fVR2ctM-m4H0ptD8lkU3IfIlFgnCSK9M9PB2sZLZv5y2GnPrvoGxnAIkoaa1ooZcNyOmjhqkOMaklBToW9sO4plcT7Z2-lPPgUDPc-MtD-dyS1sRYdIGo261yOGwm58v31PE=w340-h428-s-no-gm?authuser=0
 
-[params]
-  author = 'Ankur Rajbongshi'
-  chapter_title = "My Land"
-+++
+params:
+  author: Ankur Rajbongshi
+  chapter_title: My Land
+---
 
 ## Summary of the poem
 
@@ -34,9 +41,9 @@ The poem **My Land** is a vibrant expression of the poet's love, pride, and resp
 **Ans:** We know that the poet loves his country because he calls it rich, rare, fair, and divine, and he is ready to die to save it.
 
 **d) What is the poem about?**  
-**Ans:** The poem is about the poet’s deep love and pride for his native land and its brave men and women.
+**Ans:** The poem is about the poetâ€™s deep love and pride for his native land and its brave men and women.
 
-### 2. Write ‘T’ for the correct statement and ‘F’ for the incorrect statement in the box near each sentence:
+### 2. Write â€˜Tâ€™ for the correct statement and â€˜Fâ€™ for the incorrect statement in the box near each sentence:
 
 **a) The poet's native land is rich and rare.**  
 **Ans:** T
@@ -169,7 +176,7 @@ shine
 
 **Ans:**
 
-The poet’s native land is rich and rare.  
+The poetâ€™s native land is rich and rare.  
 It is fresh and fair, and very dear to him.  
 He feels proud of his land and considers it divine.
 
@@ -287,7 +294,7 @@ Some places of importance in Assam are **Kaziranga National Park**, **Majuli**, 
 {{<content-box content="*s*ave &nbsp;&nbsp; fre*sh* &nbsp;&nbsp; ri*ch* &nbsp;&nbsp;">}}
 {{</flex>}}
 
-**Now, let’s practise saying the following words correctly:**
+**Now, letâ€™s practise saying the following words correctly:**
 
 {{<flex direction="col" marginY="1rem">}}
 {{<content-box content="sun &nbsp;&nbsp; she &nbsp;&nbsp; sure &nbsp;&nbsp; wish &nbsp;&nbsp; shine &nbsp;&nbsp; touch &nbsp;&nbsp; change &nbsp;&nbsp; each">}}
@@ -298,17 +305,17 @@ Some places of importance in Assam are **Kaziranga National Park**, **Majuli**, 
 ---
 
 > **Tongue Twister Time:**  
-> “Seven shy sharks share chunky chocolate chips”
+> â€œSeven shy sharks share chunky chocolate chipsâ€
 
-### 16. Let’s learn some grammar:
+### 16. Letâ€™s learn some grammar:
 
 
 #### a) Notice the underlined word in the following line from the poem:  
 
-“I’d freely die to save her…”
+â€œIâ€™d freely die to save herâ€¦â€
 
-Here, **‘ly’** is added to the adjective **‘free’** to make a new word **‘freely’**.  
-**‘Freely’ is an adverb.**
+Here, **â€˜lyâ€™** is added to the adjective **â€˜freeâ€™** to make a new word **â€˜freelyâ€™**.  
+**â€˜Freelyâ€™ is an adverb.**
 
 #### b) Read the adjectives written in the box:
 
@@ -316,7 +323,7 @@ Here, **‘ly’** is added to the adjective **‘free’** to make a new word *
 {{<content-box content="rare &nbsp;&nbsp; fresh &nbsp;&nbsp; fair &nbsp;&nbsp; dear &nbsp;&nbsp; divine &nbsp;&nbsp; brave &nbsp;&nbsp;">}}
 {{</flex>}}
 
-**Now, add ‘ly’ to each of them to make adverbs and write in the given spaces:**
+**Now, add â€˜lyâ€™ to each of them to make adverbs and write in the given spaces:**
 
 {{<flex>}}
 
@@ -336,14 +343,14 @@ Here, **‘ly’** is added to the adjective **‘free’** to make a new word *
 
 **Ans:**
 
-- rare → **rarely**  
-- fresh → **freshly**  
-- fair → **fairly**  
-- dear → **dearly**  
-- divine → **divinely**  
-- brave → **bravely**
+- rare â†’ **rarely**  
+- fresh â†’ **freshly**  
+- fair â†’ **fairly**  
+- dear â†’ **dearly**  
+- divine â†’ **divinely**  
+- brave â†’ **bravely**
 
-#### c) Choose one adjective and the adverb formed by adding ‘ly’ to it and make sentences using the adjective and the adverb:
+#### c) Choose one adjective and the adverb formed by adding â€˜lyâ€™ to it and make sentences using the adjective and the adverb:
 
 {{<flex direction="col" marginY="1rem">}}
 {{<underscored-space no="2" width="15rem">}}

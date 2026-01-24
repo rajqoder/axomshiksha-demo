@@ -1,18 +1,25 @@
-+++
-title = "Afternoon on a hill - Class 6 English (SCERT)"
-draft = false 
-slug = "lesson-1-scert"
-date = "2025-12-30T10:48:04+05:30"
-readingTime = "50 mins"
-description = "Edna St. Vincent Millay's poem 'Afternoon on a Hill' - which depicts a peaceful moment spent on a hilltop, encapsulates the essence of nature's beauty in the SCERT Class 6 English textbook. Word meanings, explanations, and comprehensive solutions are all included in this post."
-keywords = ["scert", "class-6", "english", "solutions", "textbook", "lesson-1"]
-categories = ["upper-primary"]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczN28Nd3u_vM128uOILjwlJ_TIEuh5fO_4DL2m79WfXw8PHsRVA6x5pZYRQTrfAY97GoCydt_XeLQCTkqqL-4gtT6Np9l0qNccQgxGjoscu7k8rtb-PE0Ed-w1-Zc238reot_rA94OvZ3QRpfJlpU6c=w455-h607-s-no-gm?authuser=0"
+﻿---
+title: Afternoon on a hill - Class 6 English (SCERT)
+draft: false 
+slug: lesson-1-scert
+date: 2025-12-30T10:48:04+05:30
+readingTime: 50 mins
+description: Edna St. Vincent Millay's poem 'Afternoon on a Hill' - which depicts a peaceful moment spent on a hilltop, encapsulates the essence of nature's beauty in the SCERT Class 6 English textbook. Word meanings, explanations, and comprehensive solutions are all included in this post.
+keywords:
+   - scert
+   - class-6
+   - english
+   - solutions
+   - textbook
+   - lesson-1
+categories:
+  - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczN28Nd3u_vM128uOILjwlJ_TIEuh5fO_4DL2m79WfXw8PHsRVA6x5pZYRQTrfAY97GoCydt_XeLQCTkqqL-4gtT6Np9l0qNccQgxGjoscu7k8rtb-PE0Ed-w1-Zc238reot_rA94OvZ3QRpfJlpU6c=w455-h607-s-no-gm?authuser=0
 
-[params]
-  author = 'Ankur Rajbongshi'
-  chapter_title = "Afternoon on a hill"
-+++
+params:
+  author: Ankur Rajbongshi
+  chapter_title: Afternoon on a hill
+---
 
 ## Summary of the Poem
 
@@ -274,7 +281,7 @@ Now write down a few sets of words using alliteration. One is done for you.
 
    **Ans:** Do it yourself.
 
-   (b) **Read the words again. In Box A, write the words in which the letter ‘i’ is pronounced as in ‘hill’. In Box B, write the words in which the letter ‘i’ is pronounced as in ‘rise’. An example is written in each box for you.**
+   (b) **Read the words again. In Box A, write the words in which the letter â€˜iâ€™ is pronounced as in â€˜hillâ€™. In Box B, write the words in which the letter â€˜iâ€™ is pronounced as in â€˜riseâ€™. An example is written in each box for you.**
 
    > You may hear the word **wind** pronounced in two different ways.
 
@@ -295,7 +302,7 @@ Now write down a few sets of words using alliteration. One is done for you.
    | cliff | ripe |
    | ring | kind |
 
-### 14. Read the poem ‘**Afternoon on a Hill**’ and find words which belong to different word classes. Write them down in the spaces given below. One word is provided as an example for each word class.
+### 14. Read the poem â€˜**Afternoon on a Hill**â€™ and find words which belong to different word classes. Write them down in the spaces given below. One word is provided as an example for each word class.
 
    (a) Noun (a naming word): hill, ____________  
    (b) Pronoun (a word used instead of a noun): I, ____________  
@@ -305,11 +312,11 @@ Now write down a few sets of words using alliteration. One is done for you.
 ### 15. (a) **Read this line from the poem**  
    'I will be the gladdest thing...'
 
-   Here the word 'gladdest' is the superlative degree of the adjective 'glad'. The comparative degree of glad is ‘gladder’.
+   Here the word 'gladdest' is the superlative degree of the adjective 'glad'. The comparative degree of glad is â€˜gladderâ€™.
 
-   > We use the comparative degree and the superlative degree of adjectives for comparison. Generally, ‘er’ is added to the adjective to make it comparative and ‘est’ is added to make it superlative.
+   > We use the comparative degree and the superlative degree of adjectives for comparison. Generally, â€˜erâ€™ is added to the adjective to make it comparative and â€˜estâ€™ is added to make it superlative.
 
-   Let’s learn the comparative and superlative degrees of a few adjectives.
+   Letâ€™s learn the comparative and superlative degrees of a few adjectives.
 
    | Positive Degree | Comparative Degree | Superlative Degree |
    |:---------------|:------------------|:------------------|
@@ -358,7 +365,7 @@ Now write down a few sets of words using alliteration. One is done for you.
    I will look at cliffs and clouds...  
    I will mark which must be mine...
     
-   > When we talk about events or actions that will happen in the future, we use ‘will’. We also use ‘shall and other verbs to talk about actions that will occur at some time in the future.
+   > When we talk about events or actions that will happen in the future, we use â€˜willâ€™. We also use â€˜shall and other verbs to talk about actions that will occur at some time in the future.
 
    Now, look at the sentences:
 
@@ -367,7 +374,7 @@ Now write down a few sets of words using alliteration. One is done for you.
 
    > When we talk about events or actions that take place regularly, we use the simple present tense.
 
-   **Now, write down two sentences stating the activities that you will do tomorrow in the space given below. Use ‘will’ or ‘shall’.**
+   **Now, write down two sentences stating the activities that you will do tomorrow in the space given below. Use â€˜willâ€™ or â€˜shallâ€™.**
 
    **Ans:**  
    (i) I will complete my homework tomorrow.  
