@@ -2,7 +2,7 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content/**/*.md
+    path: content
     fields:
       - name: title
         description: 'Title of the post'
