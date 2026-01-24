@@ -1,25 +1,27 @@
-﻿+++
-title = "Afternoon on a hill - Class 6 English (SCERT)"
-draft = false
-slug = "lesson-1-scert"
-date = "2025-12-30T10:48:04+05:30"
-readingTime = "50 mins"
-description = "Edna St. Vincent Millay's poem 'Afternoon on a Hill' - which depicts a peaceful moment spent on a hilltop, encapsulates the essence of nature's beauty in the SCERT Class 6 English textbook. Word meanings, explanations, and comprehensive solutions are all included in this post."
-keywords = [
-  "scert",
-  "class-6",
-  "english",
-  "solutions",
-  "textbook",
-  "lesson-1"
-]
-categories = [ "upper-primary" ]
-thumbnail = "https://lh3.googleusercontent.com/pw/AP1GczN28Nd3u_vM128uOILjwlJ_TIEuh5fO_4DL2m79WfXw8PHsRVA6x5pZYRQTrfAY97GoCydt_XeLQCTkqqL-4gtT6Np9l0qNccQgxGjoscu7k8rtb-PE0Ed-w1-Zc238reot_rA94OvZ3QRpfJlpU6c=w455-h607-s-no-gm?authuser=0"
-
-[params]
-author = "Ankur Rajbongshi"
-chapter_title = "Afternoon on a hill"
-+++
+﻿---
+title: Afternoon on a hill - Class 6 English (SCERT)
+draft: false
+slug: lesson-1-scert
+date: 2025-12-30T10:48:04+05:30
+readingTime: 50 mins
+description: Edna St. Vincent Millay's poem 'Afternoon on a Hill' - which
+  depicts a peaceful moment spent on a hilltop, encapsulates the essence of
+  nature's beauty in the SCERT Class 6 English textbook. Word meanings,
+  explanations, and comprehensive solutions are all included in this post.
+keywords:
+  - scert
+  - class-6
+  - english
+  - solutions
+  - textbook
+  - lesson-1
+categories:
+  - upper-primary
+thumbnail: https://lh3.googleusercontent.com/pw/AP1GczN28Nd3u_vM128uOILjwlJ_TIEuh5fO_4DL2m79WfXw8PHsRVA6x5pZYRQTrfAY97GoCydt_XeLQCTkqqL-4gtT6Np9l0qNccQgxGjoscu7k8rtb-PE0Ed-w1-Zc238reot_rA94OvZ3QRpfJlpU6c=w455-h607-s-no-gm?authuser=0
+params:
+  author: Ankur Rajbongshi
+  chapter_title: Afternoon on a hill
+---
 
 ## Summary of the Poem
 

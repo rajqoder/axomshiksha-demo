@@ -3,8 +3,6 @@ content:
     label: Pages
     type: collection
     path: content
-    format: toml-frontmatter
-    subfolders: true
     view:
       fields: [title, description, date]
       sort: [date, title]
@@ -49,6 +47,26 @@ content:
       - name: readingTime
         label: Reading Time
         type: string
+      
+      - name: categories
+        label: Categories
+        type: select
+        list: true
+        required: true
+        options:
+          values:
+          - lower-primary
+          - upper-primary
+          - secondary
+          - higher-secondary
+          - ug
+          - pg
+          - diploma
+          - teaching-course
+          - competitive-exams
+          - skill-development
+          - doctorate
+          - research
       
       - name: params
         required: true
