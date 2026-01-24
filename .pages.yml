@@ -38,11 +38,6 @@ content:
         required: true
         label: Slug
         type: string
-      
-      - name: date
-        required: true
-        label: Date
-        type: date
           
       - name: readingTime
         label: Reading Time
