@@ -3,6 +3,7 @@ content:
     label: Pages
     type: collection
     path: content
+    format: toml-frontmatter
     subfolders: true
     view:
       fields: [title, description, date]
