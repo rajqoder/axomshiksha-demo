@@ -17,9 +17,13 @@ content:
         required: true
         label: Description
         description: 'SEO Description for the post'
-        type: text
+        type: string
         options:
           maxlength: 150
+
+      - name: date
+        label: Date
+        required: true
       
       - name: keywords
         label: Keywords
